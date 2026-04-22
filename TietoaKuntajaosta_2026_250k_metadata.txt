@@ -1,0 +1,3 @@
+Coordinate system: etrs-tm35fin 
+File format: GeoPackage 
+Updated: 2026-01-16T13:50:41.715556Z 
